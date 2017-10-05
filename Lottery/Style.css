@@ -1,0 +1,13 @@
+﻿body {
+}
+
+.alignCenter {
+    width: 100%;
+    text-align: center;
+}
+
+
+.label {
+    /*display: inline-block;*/
+    text-align: center;
+}
